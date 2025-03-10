@@ -1,0 +1,15 @@
+# ملفات البيئة الافتراضية
+venv/
+__pycache__/
+
+# ملفات خاصة بالـ IDE
+.idea/
+.vscode/
+
+# ملفات Docker
+Dockerfile
+docker-compose.yml
+
+# الملفات المؤقتة
+*.log
+*.tmp
